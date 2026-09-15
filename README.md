@@ -30,7 +30,7 @@ The program collects student information through an interactive command-line loo
 
 bash
 pip install rich
-python student_management.py
+python Student_Management_System.py
 
 ## What I'd Build Next
 
